@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score,Roc Auc
+random_forest,0.9921,0.9842,0.9921,0.9881,0.9873
+xgboost,0.994,0.9931,0.994,0.9931,0.9946
+tuned_random_forest,0.9921,0.9842,0.9921,0.9881,0.9829
+tuned_xgboost,0.995,0.9945,0.995,0.9945,0.991
